@@ -1,0 +1,29 @@
+.about{
+    display: flex;
+}
+
+.aboutWrapper{
+    flex: 9;
+    padding: auto;
+}
+
+.aboutCentre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin:  3rem;
+}
+
+.aboutCentre label{
+    color: grey;
+    font-size: 2.5rem;
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+.settingsPP img{
+    width: 50% !important;
+    height: 400px !important;
+    margin-left: 12rem;
+}
